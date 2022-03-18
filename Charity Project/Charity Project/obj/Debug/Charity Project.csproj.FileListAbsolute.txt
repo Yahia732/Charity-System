@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Charity Project\Charity Project\bin\Debug\Charity Project.exe.config
+C:\Users\user\Desktop\Charity Project\Charity Project\bin\Debug\Charity Project.exe
+C:\Users\user\Desktop\Charity Project\Charity Project\bin\Debug\Charity Project.pdb
+C:\Users\user\Desktop\Charity Project\Charity Project\obj\Debug\Charity Project.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Charity Project\Charity Project\obj\Debug\Charity_Project.Donation.resources
+C:\Users\user\Desktop\Charity Project\Charity Project\obj\Debug\Charity_Project.Form1.resources
+C:\Users\user\Desktop\Charity Project\Charity Project\obj\Debug\Charity_Project.Properties.Resources.resources
+C:\Users\user\Desktop\Charity Project\Charity Project\obj\Debug\Charity Project.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Charity Project\Charity Project\obj\Debug\Charity Project.exe
+C:\Users\user\Desktop\Charity Project\Charity Project\obj\Debug\Charity Project.pdb
+C:\Users\user\Desktop\Charity Project\Charity Project\bin\Debug\Oracle.DataAccess.dll
+C:\Users\user\Desktop\Charity Project\Charity Project\obj\Debug\Charity_Project.Login.resources
+C:\Users\user\Desktop\Charity Project\Charity Project\obj\Debug\Charity_Project.Admin.resources
+C:\Users\user\Desktop\Charity Project\Charity Project\obj\Debug\Charity_Project.Task.resources
